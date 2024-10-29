@@ -8,16 +8,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="084b672e-3ba3-46f4-848c-43d4b69c05a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todolist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist_core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todolist_core/todolist/templates/todolist/base.html" afterDir="false" />
+    <list default="true" id="084b672e-3ba3-46f4-848c-43d4b69c05a1" name="Changes" comment="V1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/todolist/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/todolist/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MihailGen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MihailGen/todolist.git&quot;,
+    &quot;accountId&quot;: &quot;1ee42816-f80a-4ba5-a5b2-b7c35e1b236b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -86,12 +93,26 @@
       <workItem from="1729757158053" duration="3846000" />
       <workItem from="1729761928580" duration="482000" />
       <workItem from="1729762427833" duration="6064000" />
-      <workItem from="1729768559089" duration="12844000" />
+      <workItem from="1729768559089" duration="13163000" />
+      <workItem from="1730210967557" duration="6464000" />
     </task>
+    <task id="LOCAL-00001" summary="V1">
+      <option name="closed" value="true" />
+      <created>1729784693331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729784693331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
