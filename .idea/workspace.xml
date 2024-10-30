@@ -8,11 +8,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="084b672e-3ba3-46f4-848c-43d4b69c05a1" name="Changes" comment="V1">
+    <list default="true" id="084b672e-3ba3-46f4-848c-43d4b69c05a1" name="Changes" comment="V2">
+      <change afterPath="$PROJECT_DIR$/todolist_core/todolist/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist_core/todolist/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist.zip" beforeDir="false" afterPath="$PROJECT_DIR$/todolist.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist_core/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist_core/todolist/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist_core/todolist/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/todolist/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/todolist_core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist_core/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist_core/todolist_core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todolist_core/todolist_core/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +72,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Air\PycharmProjects\todolist\todolist_core\todolist" />
       <recent name="C:\Users\Air\PycharmProjects\todolist\todolist_core" />
       <recent name="C:\Users\Air\PycharmProjects\todolist\todolist" />
       <recent name="C:\Users\Air\PycharmProjects\todolist" />
@@ -94,7 +99,8 @@
       <workItem from="1729761928580" duration="482000" />
       <workItem from="1729762427833" duration="6064000" />
       <workItem from="1729768559089" duration="13163000" />
-      <workItem from="1730210967557" duration="6464000" />
+      <workItem from="1730210967557" duration="6793000" />
+      <workItem from="1730282820868" duration="9439000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <option name="closed" value="true" />
@@ -104,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729784693331</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V2">
+      <option name="closed" value="true" />
+      <created>1730220453222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220453222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1" />
+    <MESSAGE value="V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
