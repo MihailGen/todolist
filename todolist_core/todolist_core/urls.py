@@ -22,5 +22,6 @@ from todolist import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('basebase/', views.base),
-    path('', include('todolist.urls', namespace='tasks'))
+    path('', include('todolist.urls', namespace='tasks')),
+    path('api-auth/', include ('rest_framework.urls'))
 ]
