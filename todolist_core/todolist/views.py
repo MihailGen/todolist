@@ -2,8 +2,8 @@ from django.shortcuts import render
 from rest_framework import viewsets
 from rest_framework import generics, mixins
 
-from .models import Task, Comment
-from .serializers import TaskSerializer, CommentSerializer
+from .models import Task, Comment, Tag
+from .serializers import TaskSerializer, CommentSerializer, TagSerializer
 
 
 
@@ -24,5 +24,7 @@ class CommentRetrieveUpdateDestroyAPIView(generics.RetrieveUpdateDestroyAPIView)
     queryset = Comment.objects.all()
     serializer_class = CommentSerializer
 
-class CommentAPIView(generics.ListAPIView, mixins.CreateModelMixin, mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin):
-    pass
+
+class TagViewSet(viewsets.ModelViewSet):
+    queryset = Tag.objects.all()
+    serializer_class = TagSerializer
